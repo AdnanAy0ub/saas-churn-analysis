@@ -88,7 +88,7 @@ Interactive Power BI dashboard showing:
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/your-username/saas-churn-analysis.git
+git clone https://github.com/AdnanAy0ub/saas-churn-analysis.git
 cd saas-churn-analysis
 ```
 
