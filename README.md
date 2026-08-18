@@ -72,7 +72,8 @@ Interactive Power BI dashboard showing:
 - Key metric KPIs
 
 **Screenshot:**
-![SaaS Churn Dashboard](dashboards/dashboard_screenshot.png)
+![Uploading dashboard_screenshot.png…]()
+
 
 ---
 
@@ -233,11 +234,20 @@ For professional summary, see `CASE_STUDY.docx`
 
 ---
 
-## License
+## 📜 License
+MIT — feel free to fork, star, and use in your portfolio.
 
-Open-source for educational and business use.
+
+## 🙋 About Me
+
+**ADNAN AYOUB DAR** from Srinagar J&K
+| Data Analyst | Passionate about turning raw data into business insights
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adnan-ayoub-dar-5ba528267/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/AdnanAy0ub)
 
 ---
+
 
 **Project Author:** Adnan | Data Analyst  
 **Date:** August 2026  
