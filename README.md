@@ -72,7 +72,8 @@ Interactive Power BI dashboard showing:
 - Key metric KPIs
 
 **Screenshot:**
-![Uploading dashboard_screenshot.png…]()
+<img width="1513" height="851" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/3ba32b4f-f0f6-4b9e-90af-38cb6b2d4fcd" />
+
 
 
 ---
