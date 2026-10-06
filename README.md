@@ -209,7 +209,7 @@ This project demonstrates:
 
 ✅ **Business acumen** — Moves beyond "here's the data" to "here's what we should DO" with expected ROI
 
-✅ **Technical depth** — SQL, Python, Power BI, statistical testing all in one project
+✅ **Technical depth** — Python, Power BI, statistical testing all in one project
 
 ✅ **Communication** — Translates complex statistics into actionable business recommendations
 
